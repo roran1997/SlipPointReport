@@ -1,0 +1,1 @@
+from DataQuery import query
